@@ -1,0 +1,182 @@
+[
+    {
+        "id": "campera-01",
+        "titulo": "Campera Detroit Red Wings",
+        "imagen": "./img/camperas/01.jpg",
+        "categoria": {
+            "nombre": "Camperas",
+            "id": "camperas"
+        },
+        "precio": 3000
+    },
+    {
+        "id": "campera-02",
+        "titulo": "Campera New York Islanders",
+        "imagen": "./img/camperas/02.jpg",
+        "categoria": {
+            "nombre": "Camperas",
+            "id": "camperas"
+        },
+        "precio": 3000
+    },
+    {
+        "id": "campera-03",
+        "titulo": "Campera Colorado Avalanche",
+        "imagen": "./img/camperas/03.jpg",
+        "categoria": {
+            "nombre": "Camperas",
+            "id": "camperas"
+        },
+        "precio": 3000
+    },
+    {
+        "id": "campera-04",
+        "titulo": "Campera Las Vegas Golden Knights",
+        "imagen": "./img/camperas/04.jpg",
+        "categoria": {
+            "nombre": "Camperas",
+            "id": "camperas"
+        },
+        "precio": 3000
+    },
+    {
+        "id": "campera-05",
+        "titulo": "Campera Seattle Kraken",
+        "imagen": "./img/camperas/05.jpg",
+        "categoria": {
+            "nombre": "Camperas",
+            "id": "camperas"
+        },
+        "precio": 3000
+    },
+    {
+        "id": "camiseta-01",
+        "titulo": "Camiseta San Jose Sharks - Karlsson",
+        "imagen": "./img/camisetas/01.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "camiseta-02",
+        "titulo": "Camiseta Pittsburgh Penguins - Letang",
+        "imagen": "./img/camisetas/02.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "camiseta-03",
+        "titulo": "Camiseta Seattle Kraken - Grubauer",
+        "imagen": "./img/camisetas/03.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "camiseta-04",
+        "titulo": "Camiseta Washington Capitals - Ovechkin",
+        "imagen": "./img/camisetas/04.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "camiseta-05",
+        "titulo": "Camiseta Florida Panthers - Barkov",
+        "imagen": "./img/camisetas/05.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "camiseta-06",
+        "titulo": "Camiseta Chicago Blackhawks - Kane",
+        "imagen": "./img/camisetas/06.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "camiseta-07",
+        "titulo": "Camiseta Colorado Avalanche - MacKinnon",
+        "imagen": "./img/camisetas/07.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "camiseta-08",
+        "titulo": "Camiseta Edmonton Oilers - Draisaitl",
+        "imagen": "./img/camisetas/08.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "gorra-01",
+        "titulo": "Gorra Pittsburgh Penguins",
+        "imagen": "./img/gorras/01.jpg",
+        "categoria": {
+            "nombre": "Gorras",
+            "id": "gorras"
+        },
+        "precio": 500
+    },
+    {
+        "id": "gorra-02",
+        "titulo": "Gorra Nashville Panthers",
+        "imagen": "./img/gorras/02.jpg",
+        "categoria": {
+            "nombre": "Gorras",
+            "id": "gorras"
+        },
+        "precio": 500
+    },
+    {
+        "id": "gorra-03",
+        "titulo": "Gorra Las Vegas Golden Knights",
+        "imagen": "./img/gorras/03.jpg",
+        "categoria": {
+            "nombre": "Gorras",
+            "id": "gorras"
+        },
+        "precio": 500
+    },
+    {
+        "id": "gorra-04",
+        "titulo": "Gorra Edmonton Oilers",
+        "imagen": "./img/gorras/04.jpg",
+        "categoria": {
+            "nombre": "Gorras",
+            "id": "gorras"
+        },
+        "precio": 500
+    },
+    {
+        "id": "gorra-05",
+        "titulo": "Gorra St Louis Blues",
+        "imagen": "./img/gorras/05.jpg",
+        "categoria": {
+            "nombre": "Gorras",
+            "id": "gorras"
+        },
+        "precio": 500
+    }
+]
